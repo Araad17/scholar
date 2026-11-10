@@ -17,5 +17,8 @@
     }
   },
   "packageManager": "pnpm@12.18.0",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^18.0.10"
+  }
 }
